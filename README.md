@@ -76,29 +76,6 @@ streamlit run ticket.py
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-(Add screenshot here)
-
-### Booking Ticket
-
-(Add screenshot here)
-
-### View All Bookings
-
-(Add screenshot here)
-
-### Search Booking
-
-(Add screenshot here)
-
-### Delete Booking
-
-(Add screenshot here)
-
----
 
 ## 📋 Database Schema
 
@@ -127,9 +104,9 @@ streamlit run ticket.py
 
 ## 👩‍💻 Author
 
-**Marwa Sayed**
+**Marwa Sayed Hassan**
 
 Computer Science Student
 
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- GitHub: https://github.com/yourusername
+- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/marwa-sayed-hassan-b19930336?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- GitHub: https://github.com/mrwts4429-coder
